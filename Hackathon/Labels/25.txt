@@ -1,0 +1,2 @@
+ 	BX	BY	Width	Height
+1	1417	1083	75	60
