@@ -1,0 +1,4 @@
+train: ../molecule_images/train
+val: ../molecule_images/val
+nc: 1
+names: [molecule]

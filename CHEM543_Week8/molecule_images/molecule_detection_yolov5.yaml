@@ -1,0 +1,4 @@
+train: c:\Users\final\Documents\CHEM_543_SQ25\CHEM543_Week8\molecule_images\train
+val: c:\Users\final\Documents\CHEM_543_SQ25\CHEM543_Week8\molecule_images\val
+nc: 1
+names: [molecule]
